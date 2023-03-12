@@ -17,7 +17,7 @@ You will also need the bracket to connect the load cell to your printer:
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/techman83/Filament-Scale-Enhanced/archive/main.zip
+    https://github.com/PrzMat/Filament-Info/archive/main.zip
 
 
 ## Configuration
