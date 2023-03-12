@@ -134,12 +134,12 @@ class FilamentInfoPlugin(octoprint.plugin.SettingsPlugin,
 
                 # version check: github repository
                 type="github_release",
-                user="techman83",
-                repo="Filament-Scale-Enhanced",
+                user="PrzMat",
+                repo="Filament-Info",
                 current=self._plugin_version,
 
                 # update method: pip
-                pip="https://github.com/techman83/Filament-Scale-Enhanced/releases/latest/download/Filament_Scale_Enhanced.zip"  # noqa: E501
+                pip="https://github.com/PrzMat/Filament-Info/releases/latest/download/Filament-Info.zip"  # noqa: E501
             )
         )
 
