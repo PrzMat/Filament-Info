@@ -1,4 +1,4 @@
-# OctoPrint Filament Scale Enhanced
+# OctoPrint Filament Info
 
 This plugin allows connecting an HX711-based load cell to Octoprint to read out the current weight of the remaining filament.
 
