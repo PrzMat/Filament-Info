@@ -1,0 +1,4 @@
+include README.md
+recursive-include filament_info/templates *
+recursive-include filament_info/translations *
+recursive-include filament_info/static *
