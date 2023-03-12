@@ -26,7 +26,7 @@ plugin_description = ("Plugin for integrating a load cell into a filament "
                       "holder.")
 plugin_author = "Mateusz Przytuła"
 plugin_author_email = "mateusz.przytula@vp.pl"
-plugin_url = "https://github.com/Techman83/Filament-Scale-Enhanced"
+plugin_url = "https://github.com/PrzMat/Filament-Info"
 plugin_license = "AGPLv3"
 plugin_requires = ["RPi.GPIO", "spidev", "mfrc522"]
 plugin_extras_require = {
